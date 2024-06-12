@@ -1,4 +1,5 @@
-## Hello everyone, my name is Anastasia and I am interested in NLP 👀
+## Hello everyone!
+My name is Anastasia and I am interested in NLP 👀
 
 <!--
 
