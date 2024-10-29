@@ -1,4 +1,9 @@
 ## Hello everyone!
+
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjllM3UwanFvNHBhMGlwa2E0aHc2enZyaXAxdnd6cmFidm1uaWxyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H1dxi6xdh4NGQCZSvz/giphy.gif" width="100"/>
+</div>
+
 My name is Anastasia and I am interested in NLP 👀
 
 <!--
