@@ -6,7 +6,7 @@
 
 --- 
 ### :woman_technologist: About Me :
-My name is Anastasia K and I'm programming a little bit here... If you come here and think there's something useful here, I'm sorry, it's just my work and study NLP projects. 👀
+My name is Anastasia K and I'm programming a little bit here... If you come in this repo and think there's something useful, I'm sorry, it's just my work and study NLP projects. 👀
 
 ### 🎓 Education
 - Bachelor's Degree in **Applied Mathematics and Computer Science**, SFEDU, 2020 - 2024
