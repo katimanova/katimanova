@@ -16,25 +16,29 @@ My name is Anastasia K and I'm programming a little bit here... If you come in t
 - NLP Data Analyst at _FSBI RosNIIVH_, 2022 - ...
 --- 
 ### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/poetry/poetry-original.svg" title="Poetry" alt="Poetry" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VScode" alt="VScode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/homebrew/homebrew-original-wordmark.svg" title="homebrew" alt="homebrew" width="40" height="40"/>&nbsp 
-</div>
+
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python) 
+![PyTorch](https://img.shields.io/badge/-PyTorch-090909?style=for-the-badge&logo=pytorch) 
+![SciPy](https://img.shields.io/badge/-SciPy-090909?style=for-the-badge&logo=scipy) 
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-090909?style=for-the-badge&logo=scikit-learn)
+![Poetry](https://img.shields.io/badge/-Poetry-090909?style=for-the-badge&logo=poetry) 
+![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker) 
+![Pandas](https://img.shields.io/badge/-Pandas-090909?style=for-the-badge&logo=pandas) 
+![Seaborn](https://img.shields.io/badge/-Seaborn-090909?style=for-the-badge&logo=seaborn) 
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-090909?style=for-the-badge&logo=matplotlib) 
+![Hugging Face](https://img.shields.io/badge/-Huggingface-090909?style=for-the-badge&logo=huggingface) 
+![Jupyter](https://img.shields.io/badge/-Jupyter-090909?style=for-the-badge&logo=jupyter) 
+![VScode](https://img.shields.io/badge/-VScode-090909?style=for-the-badge&logo=visualstudio) 
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=postgresql) 
+![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=html5) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript) 
+![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=php) 
+![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git) 
+![Homebrew](https://img.shields.io/badge/-Homebrew-090909?style=for-the-badge&logo=homebrew)
 
 --- 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katimanova&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 --- 
 ### 📫 Let's Connect!
-Feel free to reach out on [Telegram](https://t.me/k_anastasia_t) if you have questions, suggestions, or just want to chat about tech and projects.
+Feel free to reach out on [Telegram](https://t.me/k_anastasia_t). If you have questions, suggestions, or just want to chat about tech and projects.
