@@ -6,14 +6,14 @@
 
 --- 
 ### :woman_technologist: About Me :
-My name is Anastasia K and I'm programming a little bit here... If you come in this repo and think there's something useful, I'm sorry, it's just my work and study NLP projects. 👀
+My name is Anastasia K and I'm programming a little bit here... If you come in this repo and think there's something useful, I'm sorry, it's just my work and study NLP projects.👀
 
 ### 🎓 Education
 - Bachelor's Degree in **Applied Mathematics and Computer Science**, SFEDU, 2020 - 2024
-- Master's Degree in **Artificial Intelligence**, AI Talent Hub x ITMO, 2024 - 2026
+- Master's Degree in **Artificial Intelligence**, ITMO x AI Talent Hub, 2024 - 2026
 
 ### 💧 Work Experience
-- **NLP Engineer** at _FSBI RosNIIVH_, 2022 - ...
+- **Data Scientist** at _FSBI RosNIIVH_, 2022 - ...
 --- 
 ### :hammer_and_wrench: Languages and Tools :
 ![Python](https://img.shields.io/badge/python-%233B99E3.svg?style=for-the-badge&logo=python&logoColor=white) 
@@ -33,9 +33,6 @@ My name is Anastasia K and I'm programming a little bit here... If you come in t
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white) 
 ![VScode](https://img.shields.io/badge/VSCode-%23006EBE.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-%23F1502F.svg?style=for-the-badge&logo=git&logoColor=white) 
-
---- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katimanova&layout=compact&theme=default&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
 --- 
 ### 📫 Let's Connect!
